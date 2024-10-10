@@ -8,8 +8,8 @@
 <ul>
     <li>Software Developer</li>
     <li>Enthusiast of Learning New Technologies</li> <!-- Ejemplo de otro ítem -->
-    <li>Team Player</li> <!-- Otro ejemplo -->
-    <li>Problem Solver</li> <!-- Otro ejemplo -->
+    <li>Collaborative work</li>
+    <li>Problem Solver</li> 
 </ul>
 
 <h3>Languages</h3>
