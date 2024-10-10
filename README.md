@@ -3,14 +3,15 @@
 <a href="https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
 </a>
-### Sobre mí
----
+<h3>Sobre mí</h3>
+<hr> <!-- Línea horizontal -->
+<ul>
+    <li>Software Developer</li>
+    <li>Enthusiast of Learning New Technologies</li> <!-- Ejemplo de otro ítem -->
+    <li>Team Player</li> <!-- Otro ejemplo -->
+    <li>Problem Solver</li> <!-- Otro ejemplo -->
+</ul>
 
-- Software Developer
-- Enthusiast of Learning New Technologies
-- Collaborative work
-- Problem Solver
-- 
 ### Languages
 
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
