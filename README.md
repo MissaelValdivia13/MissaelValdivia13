@@ -1,6 +1,8 @@
 <h1 style="text-align: center;">Hi, I’m Missael Valdivia 👋</h1>
 <img src="Banner para YouTube Geométrico Simple Azul.png" alt="banner">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/)
+<a href="https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
+</a>
 ### Sobre mí
 ---
 
