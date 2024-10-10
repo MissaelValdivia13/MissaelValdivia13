@@ -63,23 +63,7 @@
     </li>
 </ul>
 
-## GitHub Analytics
 
-### My GitHub Statistics
-- **Total Stars:** 10.5k
-- **Total Commits:** 2.3k
-- **Total PRs:** 6
-- **Total Issues:** 42
-- **Contributed to:** 3
-
-### My Programming Languages
-| Language | Percentage |
-|----------|------------|
-| JavaScript | ![JavaScript](https://progress-bar.dev/34.91) |
-| Kotlin | ![Kotlin](https://progress-bar.dev/30.71) |
-| MDX | ![MDX](https://progress-bar.dev/23.39) |
-| Java | ![Java](https://progress-bar.dev/2.09) |
-| Astro | ![Astro](https://progress-bar.dev/0.21) |
 
 
 <!--
