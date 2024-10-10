@@ -12,14 +12,25 @@
     <li>Problem Solver</li> <!-- Otro ejemplo -->
 </ul>
 
-### Languages
+<h3>Languages</h3>
+<ul>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 24px; height: 24px;"/> Java
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 24px; height: 24px;"/> Python
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="width: 24px; height: 24px;"/> C#
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" style="width: 24px; height: 24px;"/> PHP
+    </li>
+    <li>
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 24px; height: 24px;"/> JavaScript
+    </li>
+</ul>
 
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- 
 ### Frameworks
 
 - ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) Spring
