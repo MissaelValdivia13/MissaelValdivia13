@@ -13,55 +13,54 @@
 
 ---
 
-### 👨‍💻 Professional Profile
-[cite_start]Software Engineer specialized in the **.NET ecosystem** with a focus on building scalable web applications and microservices[cite: 4, 17]. [cite_start]I have professional experience implementing cloud solutions and event-driven architectures in agile environments[cite: 5, 7].
+### 👨‍💻 Perfil Profesional
+Ingeniero en Sistemas Computacionales especializado en el **ecosistema .NET**. Cuento con experiencia profesional en el desarrollo de aplicaciones web escalables y microservicios, implementando soluciones en la nube y arquitecturas dirigidas por eventos en entornos ágiles.
 
-- [cite_start]🚀 **Latest Experience:** Developed scalable services at **EPAM Systems** using .NET, RabbitMQ, and Elasticsearch.
-- [cite_start]🛠️ **Expertise:** Deep understanding of **Clean Architecture**, **SOLID principles**, and **JWT Security**[cite: 6].
-- [cite_start]☁️ **Cloud & DevOps:** Proficient in **Azure** (App Services, Functions) and **Docker** containerization[cite: 13, 23].
-- [cite_start]🎓 **Education:** Bachelor's Degree in **Computer Engineering** from ITCG[cite: 16, 17].
+- 🚀 **Experiencia Reciente:** Desarrollo de servicios escalables en **EPAM Systems** utilizando .NET, RabbitMQ y Elasticsearch.
+- 🛠️ **Especialidad:** Dominio de **Clean Architecture**, **Principios SOLID** y seguridad con **JWT**.
+- ☁️ **Cloud & DevOps:** Manejo de **Azure** (App Services, Functions) y contenedores con **Docker**.
+- 🎓 **Educación:** Ingeniero en Sistemas Computacionales por el ITCG.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Backend & Architecture
+#### 🚀 Backend & Arquitectura
 <p>
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" alt="DOTNET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Microservices-FF6600?style=flat&logo=abstract&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
 #### 🎨 Frontend & Web
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-#### 💾 Data & Infrastructure
+#### 💾 Datos e Infraestructura
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
 
 ---
 
-### 📜 Featured Certifications
-* [cite_start]**Advanced Web APIs** with ASP.NET Core 8 (LinkedIn Learning) [cite: 21]
-* [cite_start]**Software Architecture:** Patterns for Developers [cite: 22]
-* [cite_start]**MongoDB C# Developer Path** (MongoDB University) [cite: 25]
-* [cite_start]**Google Cloud Computing Foundations** [cite: 24]
+### 📜 Certificaciones Destacadas
+* **Advanced Web APIs** with ASP.NET Core 8 (LinkedIn Learning)
+* **Software Architecture:** Patterns for Developers
+* **MongoDB C# Developer Path** (MongoDB University)
+* **Google Cloud Computing Foundations**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissaelValdivia13&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissaelValdivia13&layout=compact&theme=nord&langs_count=6" />
@@ -69,7 +68,7 @@
 
 ---
 
-### 📫 Contact & Links
-* [cite_start]📧 **Email:** missael121303@gmail.com 
-* [cite_start]💼 **LinkedIn:** [/in/missael-valdivia-de-la-cruz](https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/) 
-* [cite_start]📍 **Location:** Guadalajara, Jalisco, Mexico
+### 📫 Contacto
+* 📧 **Email:** missael121303@gmail.com
+* 💼 **LinkedIn:** [missael-valdivia-de-la-cruz](https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/)
+* 📍 **Ubicación:** Guadalajara, Jalisco, México
