@@ -1,82 +1,63 @@
-<h1 style="text-align: center;">Hi, I’m Missael Valdivia 👋</h1>
-<img src="Banner para YouTube Geométrico Simple Azul.png" alt="banner">
-<a href="https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-</a>
-<h3>About me</h3>
-<hr> <!-- Línea horizontal -->
-<ul>
-    <li>Software Developer</li>
-    <li>Enthusiast of Learning New Technologies</li> <!-- Ejemplo de otro ítem -->
-    <li>Collaborative work</li>
-    <li>Problem Solver</li> 
-</ul>
+<h1 align="center">Hi, I’m Missael Valdivia 👋</h1>
+<p align="center">
+  <strong>Computer Engineer | .NET Developer | Fullstack Enthusiast</strong>
+</p>
 
-<h3>Languages</h3>
-<ul>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 24px; height: 24px;"/> Java
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 24px; height: 24px;"/> Python
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" style="width: 24px; height: 24px;"/> C#
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" style="width: 24px; height: 24px;"/> PHP
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 24px; height: 24px;"/> JavaScript
-    </li>
-</ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/English-B1%2B-green?style=for-the-badge" alt="English Level" />
+</p>
 
-<h3>Frameworks</h3>
-<ul>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" style="width: 24px; height: 24px;"/> Spring
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="Spring Boot" style="width: 24px; height: 24px;"/> Spring Boot
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="width: 24px; height: 24px;"/> Bootstrap
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="width: 24px; height: 24px;"/> React (basic)
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="width: 24px; height: 24px;"/> Angular (basic)
-    </li>
-</ul>
+---
 
-<h3>Databases</h3>
-<ul>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" style="width: 24px; height: 24px;"/> SQL Server
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="width: 24px; height: 24px;"/> MySQL
-    </li>
-    <li>
-        <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" style="width: 24px; height: 24px;"/> PostgreSQL
-    </li>
-</ul>
+### 👨‍💻 About Me
+I am a **Computer Engineering graduate** with professional experience developing scalable applications. My core expertise lies in the **.NET ecosystem**, where I've worked on enterprise-level projects, focusing on building robust backend services and efficient web solutions.
 
+- 🚀 Currently focused on **ASP.NET Core** and **Cloud Solutions**.
+- 🛠️ Solid experience in **Microservices**, **Entity Framework**, and **SQL Server**.
+- 🌍 Professional working proficiency in **English (B1+)**.
+- 💡 Passionate about clean code, high-fidelity systems, and continuous learning.
 
+---
 
+### 🛠️ Tech Stack
 
-<!--
-**MissaelValdivia13/MissaelValdivia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌐 Backend & Core
+<p>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="DOTNET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+</p>
 
-Here are some ideas to get you started:
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💾 Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissaelValdivia13&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissaelValdivia13&layout=compact&theme=visual_studio_code&langs_count=6" />
+</p>
+
+---
+
+### 📫 How to reach me
+*   **LinkedIn:** [Missael Valdivia](https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/)
+*   **Location:** Jalisco, Mexico 🇲🇽
