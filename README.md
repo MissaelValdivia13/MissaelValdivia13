@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Missael Valdivia 👋</h1>
 <p align="center">
-  <strong>Computer Engineer | .NET Developer | Fullstack Enthusiast</strong>
+  <strong>Junior .NET Developer | Full-Stack Integration | Clean Architecture Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -8,56 +8,68 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/English-B1%2B-green?style=for-the-badge" alt="English Level" />
+  <img src="https://img.shields.io/badge/Location-Guadalajara%2C%20MX-red?style=for-the-badge" alt="Location" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am a **Computer Engineering graduate** with professional experience developing scalable applications. My core expertise lies in the **.NET ecosystem**, where I've worked on enterprise-level projects, focusing on building robust backend services and efficient web solutions.
+### 👨‍💻 Professional Profile
+[cite_start]Software Engineer specialized in the **.NET ecosystem** with a focus on building scalable web applications and microservices[cite: 4, 17]. [cite_start]I have professional experience implementing cloud solutions and event-driven architectures in agile environments[cite: 5, 7].
 
-- 🚀 Currently focused on **ASP.NET Core** and **Cloud Solutions**.
-- 🛠️ Solid experience in **Microservices**, **Entity Framework**, and **SQL Server**.
-- 🌍 Professional working proficiency in **English (B1+)**.
-- 💡 Passionate about clean code, high-fidelity systems, and continuous learning.
+- [cite_start]🚀 **Latest Experience:** Developed scalable services at **EPAM Systems** using .NET, RabbitMQ, and Elasticsearch.
+- [cite_start]🛠️ **Expertise:** Deep understanding of **Clean Architecture**, **SOLID principles**, and **JWT Security**[cite: 6].
+- [cite_start]☁️ **Cloud & DevOps:** Proficient in **Azure** (App Services, Functions) and **Docker** containerization[cite: 13, 23].
+- [cite_start]🎓 **Education:** Bachelor's Degree in **Computer Engineering** from ITCG[cite: 16, 17].
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🌐 Backend & Core
+#### 🚀 Backend & Architecture
 <p>
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="DOTNET" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" alt="DOTNET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Microservices-FF6600?style=flat&logo=abstract&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-#### 🎨 Frontend
+#### 🎨 Frontend & Web
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-#### 💾 Databases & Cloud
+#### 💾 Data & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
 </p>
+
+---
+
+### 📜 Featured Certifications
+* [cite_start]**Advanced Web APIs** with ASP.NET Core 8 (LinkedIn Learning) [cite: 21]
+* [cite_start]**Software Architecture:** Patterns for Developers [cite: 22]
+* [cite_start]**MongoDB C# Developer Path** (MongoDB University) [cite: 25]
+* [cite_start]**Google Cloud Computing Foundations** [cite: 24]
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissaelValdivia13&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissaelValdivia13&layout=compact&theme=visual_studio_code&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissaelValdivia13&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissaelValdivia13&layout=compact&theme=nord&langs_count=6" />
 </p>
 
 ---
 
-### 📫 How to reach me
-*   **LinkedIn:** [Missael Valdivia](https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/)
-*   **Location:** Jalisco, Mexico 🇲🇽
+### 📫 Contact & Links
+* [cite_start]📧 **Email:** missael121303@gmail.com 
+* [cite_start]💼 **LinkedIn:** [/in/missael-valdivia-de-la-cruz](https://www.linkedin.com/in/missael-valdivia-de-la-cruz-685a31309/) 
+* [cite_start]📍 **Location:** Guadalajara, Jalisco, Mexico
