@@ -62,8 +62,8 @@ Software Engineer specialized in the **.NET ecosystem**. I have professional exp
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissaelValdivia13&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissaelValdivia13&layout=compact&theme=dark&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissaelValdivia13&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Missael's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissaelValdivia13&layout=compact&theme=transparent&langs_count=6&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
